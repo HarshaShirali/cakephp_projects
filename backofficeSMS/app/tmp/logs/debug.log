@@ -1,0 +1,748 @@
+2012-08-28 20:44:03 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:44:03 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:44:03 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:44:03 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:44:03 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:19 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:19 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:19 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:19 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:19 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:32 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:32 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:32 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:32 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:32 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:59 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:59 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:59 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:59 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:47:59 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:08 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:08 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:08 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:08 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:08 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:49 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:49 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:49 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:49 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:49 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:58 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:58 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:58 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:58 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:48:58 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:49:48 Debug: Notice (8): Undefined variable: codesUsed in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 5]
+Trace:
+include - APP\View\Users\stats.ctp, line 5
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:49:48 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:49:48 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:49:48 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:49:48 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:50:10 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:50:10 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:50:10 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:50:10 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:02 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:02 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:02 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:02 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:03 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:03 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:03 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:03 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:28 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:28 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:28 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:28 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:30 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:30 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:30 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:30 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:32 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:32 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:32 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:32 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:48 Debug: Notice (8): Undefined variable: prizes in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 9]
+Trace:
+include - APP\View\Users\stats.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:48 Debug: Notice (8): Undefined variable: codesBackup in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 13]
+Trace:
+include - APP\View\Users\stats.ctp, line 13
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:48 Debug: Notice (8): Undefined variable: sms in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 17]
+Trace:
+include - APP\View\Users\stats.ctp, line 17
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+
+2012-08-28 20:51:48 Debug: Notice (8): Undefined variable: mobilesGiven in [C:\Users\Jorgep\Documents\software\xampp\htdocs\pepsi_masiva2012\app\View\Users\stats.ctp, line 21]
+Trace:
+include - APP\View\Users\stats.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 910
+View::_render() - CORE\Cake\View\View.php, line 874
+View::render() - CORE\Cake\View\View.php, line 465
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 110
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 85
+[main] - APP\webroot\index.php, line 92
+

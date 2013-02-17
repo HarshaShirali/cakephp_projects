@@ -1,0 +1,1 @@
+A couple projects only to demonstrate skills with CakePHP and jQuery.
